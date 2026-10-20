@@ -1,0 +1,15 @@
+# Ignore Maven build output
+/target/
+
+# Ignore compiled Java files
+*.class
+
+# Ignore IDE settings
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore environment secrets
+.env
