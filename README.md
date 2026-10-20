@@ -1,25 +1,25 @@
-# Java Projects
-A collection of my Java projects built during my B.Tech learning journey.
+# Java Projects 🚀
 
-## Projects Included
+A collection of Java projects developed for learning and practical implementation.
 
-### 1. Student Registration System (JDBC + MySQL)
-* Java + JDBC + MySQL
-* Database connectivity
-* Fetch and display student records
+## Projects
 
-### 2. Java Calculator
-* Basic calculator using Java
-* Addition and subtraction operations
+- **Apex Store** – Java-based e-commerce shopping website.
+- **Calculator** – A simple calculator application.
+- **RMI** – Remote Method Invocation using Java.
+- **Student Registration** – Student registration management system.
+- **Client-Server** – Client-server communication using Java.
+- **JDBC** – Java database connectivity and operations.
+- **Servlet Project** – Java web application using Servlets.
 
-### 3. Java RMI Calculator
-* Java RMI (Remote Method Invocation)
-* Client-Server communication
-* Remote addition and subtraction methods
+## Technologies
 
-## Technologies Used
-* Java
-* JDBC
-* MySQL
-* Java RMI
-* Git & GitHub
+Java, JDBC, RMI, Servlets, JSP, MySQL, Maven, HTML, CSS, JavaScript.
+
+## Purpose
+
+These projects demonstrate Java programming, database connectivity, web development, and client-server communication.
+
+## Author
+
+Aditya360
